@@ -1,0 +1,8 @@
+{
+  "name": "Remix Espiquumeyria: Chemical Safety \u0026 Logistics Hub",
+  "description": "Plataforma de simulación de reacciones químicas, fichas de seguridad NFPA/ADR con códigos de túneles y tutor inteligente del Profesor IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
